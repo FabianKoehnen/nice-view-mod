@@ -1,3 +1,5 @@
+Copy of https://github.com/zmkfirmware/zmk/tree/cb786cd7d69f2a41f2968c2e5dd6a269d417286b/app/boards/shields/nice_view
+
 # nice!view
 
 The nice!view is a low-power, high refresh rate display meant to replace I2C OLEDs traditionally used.
